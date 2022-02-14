@@ -26,6 +26,10 @@ p.under{
     text-decoration: underline;
 }
 
+p.underd{
+    color: #839496;
+}
+
 p.font{
     font-size: 0.9em;
 }
