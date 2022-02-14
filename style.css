@@ -2,6 +2,7 @@
     font-family: segoe UI;
     background-color: #002b36;
     color: rgb(230, 230, 230);
+    font-size: 0.9em;
 }
 
 body{
@@ -14,9 +15,19 @@ body{
     padding: 13px;
 }
 
+
+
+
 p{
     color: #839496;
 }
+
+p.under{
+    text-decoration: underline;
+}
+
+
+
 
 h1{
     font-size: 2.35em;
@@ -38,9 +49,16 @@ h1, h2{
     hyphens: auto;
 }
 
+
+
+
 li{
     color: #839496;
 }
+
+
+
+
 
 a:hover {
     color: #657b83;
@@ -52,14 +70,20 @@ a{
     color: #2aa198;
 }
 
+
+
+
+
 div.ep-st{
-    border: solid;
+    border: dashed;
     border-color: #CEDEE4;
+    border-radius: 10px;
     color: #839496;
 }
 
 div.ep-lp{
     border: solid;
     border-color: #CEDEE4;
+    border-radius: 10px;
     color: #839496;
 }
