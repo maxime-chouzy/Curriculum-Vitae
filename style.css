@@ -1,7 +1,7 @@
 *{
     font-family: segoe UI;
     background-color: #002b36;
-    color: rgb(230, 230, 230);
+    color: #38ada9;
     font-size: 0.9em;
 }
 
@@ -79,11 +79,17 @@ div.ep-st{
     border-color: #CEDEE4;
     border-radius: 10px;
     color: #839496;
+    text-align: start;
+    padding: 12px;
+    margin: 0.8em;
 }
 
 div.ep-lp{
-    border: solid;
+    border: dashed;
     border-color: #CEDEE4;
     border-radius: 10px;
     color: #839496;
+    text-align: start;
+    padding: 12px;
+    margin: 0.8em;
 }
