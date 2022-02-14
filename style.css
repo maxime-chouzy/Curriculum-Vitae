@@ -26,6 +26,10 @@ p.under{
     text-decoration: underline;
 }
 
+p.font{
+    font-size: 0.9em;
+}
+
 
 
 
@@ -54,6 +58,10 @@ h1, h2{
 
 li{
     color: #839496;
+}
+
+li.contact{
+    font-size: 1em;
 }
 
 
