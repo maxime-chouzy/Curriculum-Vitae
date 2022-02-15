@@ -27,11 +27,19 @@ p.under{
 }
 
 p.underd{
-    color: #839496;
+    color: #38ada9;
 }
 
 p.font{
     font-size: 0.9em;
+}
+
+
+
+span.color{
+    color: #38ada9;
+    text-decoration: underline;
+    font-size: 1em;
 }
 
 
@@ -88,21 +96,22 @@ a{
 
 div.ep-st{
     border: dashed;
-    border-color: #CEDEE4;
+    border-color: #38ada9;
     border-radius: 10px;
     color: #839496;
     text-align: start;
     padding: 12px;
     margin: 0.8em;
-    margin: left;
+    margin-left: 1px;
 }
 
 div.ep-lp{
     border: dashed;
-    border-color: #CEDEE4;
+    border-color: #38ada9;
     border-radius: 10px;
     color: #839496;
     text-align: start;
     padding: 12px;
     margin: 0.8em;
+    margin-left: 1px;
 }
